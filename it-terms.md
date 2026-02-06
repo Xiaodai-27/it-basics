@@ -9,3 +9,5 @@
 
 - Branch: isolated workspace
 - Pull Request: request to merge changes
+- Operating System (OS): software that manages hardware and software resources
+- Browser: software used to access websites
